@@ -3,8 +3,7 @@
     <string name="app_name">MyFoxRecord</string>
 
     <!-- Menú principal -->
-    <string name="registrar">Registrar</string>
-    <string name="mostrar">Mostrar</string>
+    <string name="inicio">Inicio</string>
+    <string name="registro">Registro</string>
     <string name="actualizar">Actualizar</string>
-    <string name="borrar">Borrar</string>
 </resources>
