@@ -1,6 +1,6 @@
 <resources>
     <!-- Titulo -->
-    <string name="app_name">MyFoxRecord</string>
+    <string name="app_name">Sly Fox</string>
 
     <!-- Menú principal -->
     <string name="inicio">Inicio</string>

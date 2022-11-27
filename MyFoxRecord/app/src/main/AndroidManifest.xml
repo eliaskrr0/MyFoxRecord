@@ -13,6 +13,13 @@
         android:theme="@style/Theme.MyFoxRecord"
         tools:targetApi="31">
         <activity
+            android:name=".SplashScreenActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".controlador.menu_principal.BorrarActivity"
             android:exported="false">
             <meta-data
